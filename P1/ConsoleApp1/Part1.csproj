@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="P1.cs" />
+    <Compile Remove="P10.cs" />
     <Compile Remove="P2.cs" />
     <Compile Remove="P3.cs" />
     <Compile Remove="P4.cs" />
@@ -16,10 +17,12 @@
     <Compile Remove="P6.cs" />
     <Compile Remove="P7.cs" />
     <Compile Remove="P8.cs" />
+    <Compile Remove="P9.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="P1.cs" />
+    <None Include="P10.cs" />
     <None Include="P2.cs" />
     <None Include="P3.cs" />
     <None Include="P4.cs" />
@@ -27,6 +30,7 @@
     <None Include="P6.cs" />
     <None Include="P7.cs" />
     <None Include="P8.cs" />
+    <None Include="P9.cs" />
   </ItemGroup>
 
 </Project>
