@@ -5,4 +5,6 @@ C#언어 공부 정리
 ------------------------------------------------------------------
 <티스토리 정리>
 <br>
-1 - 10 https://nonamed02.tistory.com/29
+[1 - 10 정리](https://nonamed02.tistory.com/29)
+<br>
+[11 - 20 정리](https://nonamed02.tistory.com/30)
