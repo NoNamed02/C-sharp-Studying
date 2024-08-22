@@ -8,3 +8,5 @@ C#언어 공부 정리
 [1 - 10 정리](https://nonamed02.tistory.com/29)
 <br>
 [11 - 20 정리](https://nonamed02.tistory.com/30)
+<br>
+[21 - 30 정리](https://nonamed02.tistory.com/31)
