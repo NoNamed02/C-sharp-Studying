@@ -10,3 +10,5 @@ C#언어 공부 정리
 [11 - 20 정리](https://nonamed02.tistory.com/30)
 <br>
 [21 - 30 정리](https://nonamed02.tistory.com/31)
+<br>
+[31 - 40 정리](https://nonamed02.tistory.com/32)
