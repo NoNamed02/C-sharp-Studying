@@ -7,11 +7,15 @@
 
 
 ## 공부 정리 링크
+__Part1__
 - [1 - 10 정리](https://nonamed02.tistory.com/29)
 - [11 - 20 정리](https://nonamed02.tistory.com/30)
 - [21 - 30 정리](https://nonamed02.tistory.com/31)
 - [31 - 40 정리](https://nonamed02.tistory.com/32)
 - [41 - 50 정리](https://nonamed02.tistory.com/33)
+- [51 - 56 정리](https://nonamed02.tistory.com/34)
+<br>
+__Part2__
 
 
 C#을 체계적으로 공부하기 위해 각 파트를 정리한 내용을 링크에서 확인하실 수 있습니다.
