@@ -14,7 +14,7 @@ __Part1__
 - [31 - 40 정리](https://nonamed02.tistory.com/32)
 - [41 - 50 정리](https://nonamed02.tistory.com/33)
 - [51 - 56 정리](https://nonamed02.tistory.com/34)
-<br>
+  
 __Part2__
 - [57 - 60 정리](https://nonamed02.tistory.com/35)
 - [61 - 70 정리](https://nonamed02.tistory.com/36)
