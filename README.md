@@ -16,6 +16,8 @@ __Part1__
 - [51 - 56 정리](https://nonamed02.tistory.com/34)
 <br>
 __Part2__
+- [57 - 60 정리](https://nonamed02.tistory.com/35)
+- [61 - 70 정리](https://nonamed02.tistory.com/36)
 
 
 C#을 체계적으로 공부하기 위해 각 파트를 정리한 내용을 링크에서 확인하실 수 있습니다.
